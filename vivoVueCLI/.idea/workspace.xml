@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0908f8e3-f9bc-464d-ace6-d6ab0a5e9c9d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CartContainer.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/tabbar/CartContainer.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productInfo.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/products/productInfo.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="123" column="21" lean-forward="false" selection-start-line="123" selection-start-column="21" selection-end-line="123" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeContainer.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/tabbar/HomeContainer.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="59" column="31" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productlist.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/products/productlist.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="61" column="62" lean-forward="false" selection-start-line="61" selection-start-column="62" selection-end-line="61" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberContainer.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/tabbar/MemberContainer.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="6" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="About.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/About.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="31" column="49" lean-forward="false" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#625#688#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="swiper.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/subcomponents/swiper.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="37" column="5" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="37" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/img/menu1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/tabbar/CartContainer.vue" />
+        <option value="$PROJECT_DIR$/src/components/tabbar/HomeContainer.vue" />
+        <option value="$PROJECT_DIR$/src/components/products/productInfo.vue" />
+        <option value="$PROJECT_DIR$/src/components/products/productlist.vue" />
+        <option value="$PROJECT_DIR$/src/components/tabbar/MemberContainer.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/@vue/cli-service/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/@vue/component-compiler-utils/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/@webassemblyjs/leb128/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/@webpack-contrib/schema-utils/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/anymatch/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/assert/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/babel-code-frame/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/base/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/body-parser/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/bonjour/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/cache-base/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/cacheable-request/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/caniuse-api/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/chokidar/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/class-utils/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/clipboardy/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/compressible/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/compression/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/copy-webpack-plugin/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/css-selector-tokenizer/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/csso/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/define-property/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/del/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/dom-converter/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/dom-serializer/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/express/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/extend-shallow/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/fast-glob/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/finalhandler/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/friendly-errors-webpack-plugin/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/globby/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/has-ansi/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/has-value/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/has-values/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/html-webpack-plugin/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/htmlparser2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/http-proxy-middleware/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/is-descriptor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/is-plain-object/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/load-json-file/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/meow/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/merge-source-map/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/mixin-deep/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/nanomatch/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/node-libs-browser/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/object-copy/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/object-visit/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/object.pick/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/os-locale/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/portfinder/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/postcss-colormin/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/postcss-load-config/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/postcss-merge-rules/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/postcss-minify-selectors/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/postcss-reduce-initial/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/postcss/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/randomatic/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/raw-body/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/read-pkg-up/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/regjsparser/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/renderkid/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/resolve/test/resolver/symlinked/_/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/schema-utils/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/send/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/serve-index/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/set-value/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/simple-swizzle/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/snapdragon-node/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/snapdragon/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/sockjs-client/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/spdy-transport/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/spdy/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/static-extend/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/stylehacks/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/svgo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/thread-loader/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/to-regex-range/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/tough-cookie/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/uglify-js/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/uglifyjs-webpack-plugin/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/union-value/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/unset-value/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/url/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/webpack-dev-server/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/webpack-sources/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/webpack/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/wrap-ansi/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/yargs-parser/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/yargs/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-1/yorkie/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-14" />
+    <option name="width" value="1129" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vivoVueCLI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vivoVueCLI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vivoVueCLI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vivoVueCLI" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vivoVueCLI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vivoVueCLI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vivoVueCLI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vivoVueCLI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\NX\vivoPhone\vivoVueCLI\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0908f8e3-f9bc-464d-ace6-d6ab0a5e9c9d" name="Default" comment="" />
+      <created>1538443018081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538443018081</updated>
+      <workItem from="1538443037061" duration="18891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18891000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16233422" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986738" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2238806" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/cart.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/menu7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/menu5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/menu3-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/menu2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/menu1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tabbar/CartContainer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/subcomponents/swiper.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="37" column="5" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/products/productInfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="123" column="21" lean-forward="false" selection-start-line="123" selection-start-column="21" selection-end-line="123" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tabbar/HomeContainer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="59" column="31" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/products/productlist.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="61" column="62" lean-forward="false" selection-start-line="61" selection-start-column="62" selection-end-line="61" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/About.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="31" column="49" lean-forward="false" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#625#688#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tabbar/MemberContainer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
